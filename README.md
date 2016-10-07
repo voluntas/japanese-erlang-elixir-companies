@@ -14,9 +14,7 @@
 ## テンプレート
 
 ```
-### 会社名
-
-会社 URL
+### [会社名](会社 URL)
 
 - 箇条書きで Erlang のプロダクション利用について好きなだけ
 
@@ -25,9 +23,7 @@
 
 ## Erlang/OTP
 
-### 株式会社時雨堂
-
-[株式会社時雨堂](https://shiguredo.jp/)
+### [株式会社時雨堂](https://shiguredo.jp/)
 
 - Erlang/OTP 利用製品
     - [MQTT Broker Akane](http://akane.shiguredo.jp)
@@ -36,9 +32,7 @@
 
 フルスクラッチで開発した WebRTC SFU を中心に Erlang/OTP のコンサルティングなどいろいろやっています。
 
-### 株式会社VOYAGE GROUP
-
-[株式会社VOYAGE GROUP](http://voyagegroup.com/)
+### [株式会社VOYAGE GROUP](http://voyagegroup.com/)
 
 - Erlang/OTP 利用サービス
   - [fluct SSP](http://corp.fluct.jp/)
