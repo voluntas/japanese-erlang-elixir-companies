@@ -7,6 +7,7 @@
 - カテゴリー分けは後回し
 - 求人情報歓迎
 - まずは適当に書いて貰えると嬉しいです
+- Erlang/OTP と Elixir 両方利用している方は Elixir に書いてください
 
 こうした方が良いとかは Twitter で @voluntas か GitHub Isuues へお気軽にご連絡ください。
 
@@ -36,4 +37,3 @@
 フルスクラッチで開発した WebRTC SFU を中心に Erlang/OTP のコンサルティングなどいろいろやっています。
 
 ## Elixir
-
