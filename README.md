@@ -40,7 +40,7 @@
 [株式会社VOYAGE GROUP](http://voyagegroup.com/)
 
 - Erlang/OTP 利用サービス
-　　- [fluct SSP](http://corp.fluct.jp/)
+  - [fluct SSP](http://corp.fluct.jp/)
   
 広告オークションシステムのコンポーネントをEralngで実装しています。
 
