@@ -40,4 +40,11 @@
   
 広告オークションシステムのコンポーネントをEralngで実装しています。
 
+### [Kpnetworks株式会社] (http://www.kpnetworks.jp/)
+
+- Erlang/OTP 利用製品
+  - IoTプラットフォーム, IoTゲートウェイ機器
+
+ファクトリーデータを収集、処理する通信ミドルウェアに Erlang/OTP を利用しています。
+
 ## Elixir
