@@ -82,3 +82,8 @@
   - Phoenix framework 利用
 
 新規事業にて積極的に[採用](http://xflag.com/recruit/career/engineer.html)も行っています。
+
+
+### [株式会社アカツキ](http://aktsk.jp/)
+
+- [ライブエクスペリエンス事業(LX事業)](http://aktsk.jp/service/liveexperience.html) にて、近日リリース予定のウェブアプリケーションに Elixir & Phoenix を利用しています。
