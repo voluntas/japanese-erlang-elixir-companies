@@ -1,4 +1,4 @@
-# Erlang/OTP や Elixir を利用している会社
+# 日本でErlang/OTP や Elixir を利用している会社一覧
 
 - 日本国内版
 - Pull-Request ください
