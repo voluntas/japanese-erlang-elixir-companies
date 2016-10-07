@@ -1,11 +1,14 @@
 # Erlang/OTP や Elixir を利用している会社
 
+- 日本国内版
 - Pull-Request ください
     - 後ろに付け足していってください
-- 日本国内版
+    - コミットログは適当で英語でも日本語でも良いです
 - カテゴリー分けは後回し
-- 求人歓迎
-- まずは適当に書いて貰える
+- 求人情報歓迎
+- まずは適当に書いて貰えると嬉しいです
+
+こうした方が良いとかは Twitter で @voluntas か GitHub Isuues へお気軽にご連絡ください。
 
 ## テンプレート
 
@@ -21,9 +24,9 @@
 
 ## Erlang/OTP
 
-### 時雨堂
+### 株式会社時雨堂
 
-[時雨堂](https://shiguredo.jp)
+[株式会社時雨堂](https://shiguredo.jp/)
 
 - Erlang/OTP 利用製品
     - [MQTT Broker Akane](http://akane.shiguredo.jp)
