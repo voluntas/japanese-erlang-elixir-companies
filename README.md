@@ -64,3 +64,11 @@
   - (モバイル)端末管理Webアプリ
 
 社内の端末管理Webアプリや、(モバイルアプリ向け)テストツールの一部にElixirを利用しています。
+
+### [株式会社ミクシィ](https://mixi.co.jp/)
+
+- Elixir 利用サービス
+  - [XFLAG STATION（エクステ）](https://station.xflag.com/)
+  - Phoenix framework 利用
+
+新規事業にて積極的に[採用](http://xflag.com/recruit/career/engineer.html)も行っています。
