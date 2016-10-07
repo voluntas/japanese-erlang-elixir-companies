@@ -47,7 +47,7 @@
 
 ファクトリーデータを収集、処理する通信ミドルウェアに Erlang/OTP を利用しています。
 
-### [株式会社gumi](http://www.gu3.co.jp)
+### [株式会社gumi](https://gu3.co.jp)
 
 - Erlang/OTP 利用
   - 認証・課金共通基盤
