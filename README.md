@@ -30,7 +30,7 @@
     - [WebRTC SFU Sora](http://sora.shiguredo.jp)
 - rebar3, elvis 利用
 
-フルスクラッチで開発した WebRTC SFU を中心にいろいろやっています。Erlang/OTP のコンサルティングなども行っています。
+フルスクラッチで開発した WebRTC SFU を中心に Erlang/OTP のコンサルティングなどいろいろやっています。
 
 ## Elixir
 
