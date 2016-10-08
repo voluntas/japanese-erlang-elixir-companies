@@ -87,3 +87,14 @@
 ### [株式会社アカツキ](http://aktsk.jp/)
 
 - [ライブエクスペリエンス事業(LX事業)](http://aktsk.jp/service/liveexperience.html) にて、近日リリース予定のウェブアプリケーションに Elixir & Phoenix を利用しています。
+
+### [株式会社ドリコム](http://www.drecom.co.jp/)
+
+- Elixir 利用サービス
+  - [DreeVee(動画広告ネットワーク)](http://www.drecom.co.jp/pr/2015/07/20150730.php)
+  - メディアコンテンツ
+  - 一部社内ツール
+
+動画広告アドネットワークの配信APIや、一部メディアコンテンツにElixirを利用しています。
+
+ただいまエンジニアを[絶賛募集中](http://www.drecom.co.jp/recruit/)です。
