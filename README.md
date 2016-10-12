@@ -98,3 +98,12 @@
 動画広告アドネットワークの配信APIや、一部メディアコンテンツにElixirを利用しています。
 
 ただいまエンジニアを[絶賛募集中](http://www.drecom.co.jp/recruit/)です。
+
+### [Supership株式会社](https://supership.jp/)
+
+- Elixir 利用サービス
+  - Sunnychatのサーバーサイドで一部利用
+    - [iOS](https://itunes.apple.com/jp/app/sunnychat-chaohappinachatto/id1134862745?mt=8)
+    - [Android](https://play.google.com/store/apps/details?id=space.amigo&hl=ja)
+
+[エンジニア採用行っております。](https://recruit.supership.jp/job/)
