@@ -38,7 +38,7 @@
 - Erlang/OTP 利用サービス
   - [fluct SSP](http://corp.fluct.jp/)
   
-広告オークションシステムのコンポーネントをEralngで実装しています。
+広告オークションシステムのコンポーネントをErlangで実装しています。
 
 ### [Kpnetworks株式会社] (http://www.kpnetworks.jp/)
 
