@@ -107,3 +107,8 @@
     - [Android](https://play.google.com/store/apps/details?id=space.amigo&hl=ja)
 
 [エンジニア採用行っております。](https://recruit.supership.jp/job/)
+
+### [株式会社エス・エム・エス](http://www.bm-sms.co.jp/)
+
+- Elixir 利用サービス
+  - ヘルスケア事業部で会員基盤や病院検索など、メディア以外の機能に Phoenix を利用しています。
