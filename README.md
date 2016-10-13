@@ -66,6 +66,17 @@
 
 また、エンジニアも積極的に[募集しております](http://nico.ms/job/966)。
 
+### [ユミルリンク株式会社](https://www.ymir.co.jp)
+
+- Erlang 利用サービス
+  - Cuenote FC 一斉配信サービスの独自MTA・メール文書生成エンジン部分
+  - Cuenote SRS メールリレー製品（MTA・Web管理画面）
+  - Cuenote アンケートサービスのシステム全般
+
+Erlang/OTPのOTP部分（gen_*等）は利用せず、使いやすく改良した自社ライブラリを使っています。
+nifも独自C++ライブラリでラップし、ライブラリ中で多用しています。
+事業拡大のため[エンジニア絶賛募集中](https://recruit.ymir.co.jp/)です。
+
 ## Elixir
 
 ### [クックパッド株式会社](http://cookpad.com/) (Cookpad Inc.)
