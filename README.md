@@ -112,3 +112,15 @@
 
 - Elixir 利用サービス
   - ヘルスケア事業部で会員基盤や病院検索など、メディア以外の機能に Phoenix を利用しています。
+
+### [株式会社ACCESS](https://jp.access-company.com/)
+
+- Elixir製 Application Platform 開発・運用(**OSS化準備中!**)
+  - [Cowboy](https://github.com/ninenines/cowboy)ベースの独自プラットフォーム
+  - 複数のWebアプリケーションを統一環境でホスト
+  - CI機構内包、Hot Code Upgradeによる無停止デプロイ、アプリケーション間でのコード共有・プロセスレベル通信、プロセスプールによる流量制限等々実現
+  - 複数商用案件稼働中
+
+組込系Webブラウザで長年の実績を持つ会社ですが、最近はWebサービス開発を拡大中。Elixirは社内的に絶賛推進中です。
+
+エンジニアは随時募集中です。[メール](mailto:empinfo_career_o-gr@access-company.com)にてご連絡下さい。
