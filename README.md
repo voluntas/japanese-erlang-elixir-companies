@@ -40,7 +40,7 @@
   
 広告オークションシステムのコンポーネントをErlangで実装しています。
 
-### [Kpnetworks株式会社] (http://www.kpnetworks.jp/)
+### [Kpnetworks株式会社](http://www.kpnetworks.jp/)
 
 - Erlang/OTP 利用製品
   - IoTプラットフォーム, IoTゲートウェイ機器
