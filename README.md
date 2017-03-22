@@ -77,6 +77,15 @@ Erlang/OTPのOTP部分（gen_*等）は利用せず、使いやすく改良し�
 nifも独自C++ライブラリでラップし、ライブラリ中で多用しています。
 事業拡大のため[エンジニア絶賛募集中](https://recruit.ymir.co.jp/)です。
 
+### [SORABITO株式会社](https://www.sorabito.com/) (SORABITO Inc.)
+
+- Erlang/OTP 利用
+  - リアルタイムオークションシステムの基盤
+
+重機や建機のオンラインマーケットプレイス [ALLSTOCKER](https://allstocker.com/) にて、同サイトがサービスする ALLSTOCKER Auction のバックエンドで Erlang/OTP を利用しています。 
+
+SORABITO では利用技術に明確な制限はなく、[さまざまなエンジニアを募集](https://www.sorabito.com/recruit/)しています。
+
 ## Elixir
 
 ### [クックパッド株式会社](http://cookpad.com/) (Cookpad Inc.)
