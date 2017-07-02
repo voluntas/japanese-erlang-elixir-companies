@@ -106,7 +106,11 @@ SORABITO では利用技術に明確な制限はなく、[さまざまなエン�
 
 ### [株式会社アカツキ](http://aktsk.jp/)
 
-- [ライブエクスペリエンス事業(LX事業)](http://aktsk.jp/service/liveexperience.html) にて、近日リリース予定のウェブアプリケーションに Elixir & Phoenix を利用しています。
+- Elixir 利用サービス
+  - [モバイルゲーム事業](https://aktsk.jp/service/) にて、開発中の新規ゲームにおいて、ゲームサーバー、リアルタイムサーバー、基盤ミドルウェアで利用しています。
+  - [ライブエクスペリエンス事業(LX事業)](http://aktsk.jp/service/liveexperience.html) にて、近日リリース予定のウェブアプリケーションに Phoenix を利用しています。
+
+ゲームや基盤を開発するエンジニアを絶賛募集中です。興味おありの方は [@seizans](https://twitter.com/seizans) までご連絡ください。
 
 ### [株式会社ドリコム](http://www.drecom.co.jp/)
 
