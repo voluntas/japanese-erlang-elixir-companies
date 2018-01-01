@@ -27,7 +27,6 @@
 ### [株式会社時雨堂](https://shiguredo.jp/)
 
 - Erlang/OTP 利用製品
-    - [MQTT Broker Akane](http://akane.shiguredo.jp)
     - [WebRTC SFU Sora](http://sora.shiguredo.jp)
 - rebar3, elvis 利用
 
