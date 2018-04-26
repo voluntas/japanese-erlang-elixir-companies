@@ -97,10 +97,10 @@ SORABITO では利用技術に明確な制限はなく、[さまざまなエン�
 ### [株式会社ミクシィ](https://mixi.co.jp/)
 
 - Elixir 利用サービス
-  - [XFLAG STATION（エクステ）](https://station.xflag.com/)
-  - Phoenix framework 利用
+  - [ファイトリーグ](https://fight-league.com/)
+  - XFLAG Platform
 
-新規事業にて積極的に[採用](http://xflag.com/recruit/career/engineer.html)も行っています。
+新規事業にて積極的に[採用](https://career.xflag.com/career/)も行っています。
 
 
 ### [株式会社アカツキ](http://aktsk.jp/)
