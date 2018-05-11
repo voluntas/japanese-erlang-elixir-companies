@@ -147,3 +147,8 @@ SORABITO では利用技術に明確な制限はなく、[さまざまなエン�
 組込系Webブラウザで長年の実績を持つ会社ですが、最近はWebサービス開発を拡大中。Elixirは社内的に絶賛推進中です。
 
 エンジニアは随時募集中です。[メール](mailto:empinfo_career_o-gr@access-company.com)にてご連絡下さい。
+
+### [株式会社イオレ](http://www.eole.co.jp/)
+
+- Elixir 利用サービス
+  - 「[らくらく連絡網](http://www.ra9.jp/)」アプリのトーク機能のメッセージング基盤に Phoenix を採用しています。
