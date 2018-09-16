@@ -152,3 +152,9 @@ SORABITO では利用技術に明確な制限はなく、[さまざまなエン�
 
 - Elixir 利用サービス
   - 「[らくらく連絡網](http://www.ra9.jp/)」アプリのトーク機能のメッセージング基盤に Phoenix を採用しています。
+
+### [株式会社Candee](https://candee.co.jp/)
+
+- Elixir 利用サービス
+  - [Live Shop!](https://liveshop.jp/) のバックエンドはすべてElixirで書いてます。
+  - Umbrellaプロジェクトを採用しており、ドメイン駆動設計を導入しています。
