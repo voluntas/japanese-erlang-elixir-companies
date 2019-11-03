@@ -158,8 +158,3 @@ SORABITO では利用技術に明確な制限はなく、[さまざまなエン�
 - Elixir 利用サービス
   - [Live Shop!](https://liveshop.jp/) のバックエンドはすべてElixirで書いてます。
   - Umbrellaプロジェクトを採用しており、ドメイン駆動設計を導入しています。
-
-### [LINE株式会社](https://linecorp.com/)
-
-- Elixir 利用サービス
-  - [Clovaスキル](https://clova-developers.line.me/)を開発するための[Clova Extensions Kitソフトウェア開発キット](https://github.com/line/clova-cek-sdk-elixir)。
